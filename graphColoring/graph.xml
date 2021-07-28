@@ -1,0 +1,11 @@
+<graph>
+<nodes>
+<node name = "A"/>
+<node name = "B"/>
+<node name = "C"/>
+</nodes>
+<edges>
+<edge src = "A" dst = "B"/>
+<edge src = "A" dst = "C"/>
+<edges/>
+</graph>

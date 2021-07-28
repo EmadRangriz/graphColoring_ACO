@@ -1,0 +1,23 @@
+<graph>
+<nodes>
+<node name = "A"/>
+<node name = "B"/>
+<node name = "C"/>
+<node name = "D"/>
+<node name = "E"/>
+</nodes>
+<edges>
+<edge src = "A" dst = "B"/>
+<edge src = "A" dst = "C"/>
+<edge src = "B" dst = "A"/>
+<edge src = "B" dst = "C"/>
+<edge src = "B" dst = "D"/>
+<edge src = "C" dst = "A"/>
+<edge src = "C" dst = "B"/>
+<edge src = "C" dst = "D"/>
+<edge src = "D" dst = "B"/>
+<edge src = "D" dst = "C"/>
+<edge src = "D" dst = "E"/>
+<edge src = "E" dst = "D"/>
+<edges/>
+</graph>

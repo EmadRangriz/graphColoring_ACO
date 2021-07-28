@@ -1,0 +1,18 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(373,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  main.cpp
+c:\users\emi\desktop\new folder\pre\kth royal\assignments\2_graph_coloring_problem\graphcoloring\greedy.h(91): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\emi\desktop\new folder\pre\kth royal\assignments\2_graph_coloring_problem\graphcoloring\graphcoloring\antcolonyoptimization.h(82): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\emi\desktop\new folder\pre\kth royal\assignments\2_graph_coloring_problem\graphcoloring\graphcoloring\antcolonyoptimization.h(147): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\emi\desktop\new folder\pre\kth royal\assignments\2_graph_coloring_problem\graphcoloring\graphcoloring\antcolonyoptimization.h(148): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\emi\desktop\new folder\pre\kth royal\assignments\2_graph_coloring_problem\graphcoloring\graphcoloring\antcolonyoptimization.h(180): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\emi\desktop\new folder\pre\kth royal\assignments\2_graph_coloring_problem\graphcoloring\graphcoloring\antcolonyoptimization.h(234): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\emi\desktop\new folder\pre\kth royal\assignments\2_graph_coloring_problem\graphcoloring\graphcoloring\antcolonyoptimization.h(238): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\emi\desktop\new folder\pre\kth royal\assignments\2_graph_coloring_problem\graphcoloring\graphcoloring\antcolonyoptimization.h(311): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\emi\desktop\new folder\pre\kth royal\assignments\2_graph_coloring_problem\graphcoloring\graphcoloring\main.cpp(29): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\emi\desktop\new folder\pre\kth royal\assignments\2_graph_coloring_problem\graphcoloring\graphcoloring\main.cpp(47): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\emi\desktop\new folder\pre\kth royal\assignments\2_graph_coloring_problem\graphcoloring\graphcoloring\main.cpp(54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\emi\desktop\new folder\pre\kth royal\assignments\2_graph_coloring_problem\graphcoloring\graphcoloring\main.cpp(41): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\emi\desktop\new folder\pre\kth royal\assignments\2_graph_coloring_problem\graphcoloring\graphcoloring\antcolonyoptimization.h(283): warning C4172: returning address of local variable or temporary: rowCol
+  graphColoring.vcxproj -> C:\Users\Emi\Desktop\New folder\Pre\KTH Royal\Assignments\2_Graph_coloring_problem\graphColoring\output\graphColoring.exe
+  graphColoring.vcxproj -> C:\Users\Emi\Desktop\New folder\Pre\KTH Royal\Assignments\2_Graph_coloring_problem\graphColoring\output\graphColoring.pdb (Partial PDB)

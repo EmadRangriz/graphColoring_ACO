@@ -1,0 +1,6 @@
+﻿  greedy.cpp
+c:\users\emi\desktop\kth royal\assignments\2_graph_coloring_problem\graphcoloring\greedy.cpp(94): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\emi\desktop\kth royal\assignments\2_graph_coloring_problem\graphcoloring\greedy.cpp(87): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+  graphColoring.vcxproj -> C:\Users\Emi\Desktop\KTH Royal\Assignments\2_Graph_coloring_problem\graphColoring\x64\Debug\graphColoring.exe
+  graphColoring.vcxproj -> C:\Users\Emi\Desktop\KTH Royal\Assignments\2_Graph_coloring_problem\graphColoring\x64\Debug\graphColoring.pdb (Partial PDB)
